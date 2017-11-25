@@ -61,9 +61,24 @@ This study aims to examine the mechanistic basis of entrenchment of E190D substi
   * Output file: result/Bris07r6\_MutfitTable.tsv
 3. script/Bris07r6\_PlotCompareRep.R
   * Input file: result/Bris07r6\_MultiMutLib.tsv
-  * Output file: 
+  * Output file: graph/Bris07r6\_RepCompare.png
 4. script/Bris07r6\_PlotEnrichMut.R 
-  * Input file: result/Bris07\_MutfitTable.tsv
+  * Input file: result/Bris07r6\_MutfitTable.tsv
+  * Output file: graph/Bris07r6\_MutEnich.png
+#### For HK68/Vic11 triple mutant libraries
+1. script/Vic11\_HARBSmapper.py
+  * Input file: fastq/Tlib190-\*.fastq
+  * Output file: result/\*\_Tlib.count
+2. script/Vic11\_HARBS\_Count2MutFitTable.py
+  * Input file: result/\*\_Tlib.count
   * Output file: 
-#### For HK68/Vic11 triple mutant library
-
+    * result/HK68WT\_MutFitTable.tsv
+    * result/HK68E190D\_MutFitTable.tsv
+    * result/Vic11WT\_MutFitTable.tsv
+    * result/Vic11D190E\_MutFitTable.tsv
+3. script/Vic11\_PlotCompareRep.R
+  * Input file: result/\*\_Tlib.count
+  * Output file: graph/Tlib\_RepCompare.png
+4. script/Vic11\_PlotCompareLib.R 
+  * Input file: result/\*\_Tlib.count
+  * Output file: graph/Tlib\_RFcompare\_\*.png
