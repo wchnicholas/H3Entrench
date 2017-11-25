@@ -20,3 +20,11 @@ This study aims to examine the mechanistic basis of entrenchment of E190D substi
     * Passaged library (Replicate 1): fastq/rev6mut9-Lib2\_S9\_L001\_R1\_001.fastq and fastq/rev6mut9-Lib2\_S9\_L001\_R2\_001.fastq
     * Passaged library (Replicate 2): fastq/rev6mut9-Lib2\_S10\_L001\_R1\_001.fastq and fastq/rev6mut9-Lib2\_S10\_L001\_R2\_001.fastq
     * Passaged library (Replicate 3): fastq/rev6mut9-Lib2\_S11\_L001\_R1\_001.fastq and fastq/rev6mut9-Lib2\_S11\_L001\_R2\_001.fastq
+  * Triple mutant libraries (residues 225, 226, and 228):
+    * HK68 WT Input library: fastq/Tlib190-13\_S13\_L001\_R1\_001.fastq and fastq/Tlib190-13\_S13\_L001\_R2\_001.fastq
+    * HK68 WT Passaged library (Replicate 1): fastq/Tlib190-1\_S1\_L001\_R1\_001.fastq and fastq/Tlib190-1\_S1\_L001\_R2\_001.fastq
+    * HK68 WT Passaged library (Replicate 2): fastq/Tlib190-2\_S2\_L001\_R1\_001.fastq and fastq/Tlib190-2\_S2\_L001\_R2\_001.fastq
+    * HK68 WT Passaged library (Replicate 3): fastq/Tlib190-3\_S3\_L001\_R1\_001.fastq and fastq/Tlib190-3\_S3\_L001\_R2\_001.fastq
+    * HK68 E190D
+    * Vic11 WT
+    * Vic11 D190E
