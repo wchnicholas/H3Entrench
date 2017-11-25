@@ -25,6 +25,15 @@ This study aims to examine the mechanistic basis of entrenchment of E190D substi
     * HK68 WT Passaged library (Replicate 1): fastq/Tlib190-1\_S1\_L001\_R1\_001.fastq and fastq/Tlib190-1\_S1\_L001\_R2\_001.fastq
     * HK68 WT Passaged library (Replicate 2): fastq/Tlib190-2\_S2\_L001\_R1\_001.fastq and fastq/Tlib190-2\_S2\_L001\_R2\_001.fastq
     * HK68 WT Passaged library (Replicate 3): fastq/Tlib190-3\_S3\_L001\_R1\_001.fastq and fastq/Tlib190-3\_S3\_L001\_R2\_001.fastq
-    * HK68 E190D
-    * Vic11 WT
-    * Vic11 D190E
+    * HK68 E190D Input library: fastq/Tlib190-14\_S14\_L001\_R1\_001.fastq and fastq/Tlib190-14\_S14\_L001\_R2\_001.fastq
+    * HK68 E190D Passaged library (Replicate 1): fastq/Tlib190-4\_S4\_L001\_R1\_001.fastq and fastq/Tlib190-4\_S4\_L001\_R2\_001.fastq
+    * HK68 E190D Passaged library (Replicate 2): fastq/Tlib190-5\_S5\_L001\_R1\_001.fastq and fastq/Tlib190-5\_S5\_L001\_R2\_001.fastq
+    * HK68 E190D Passaged library (Replicate 3): fastq/Tlib190-6\_S6\_L001\_R1\_001.fastq and fastq/Tlib190-6\_S6\_L001\_R2\_001.fastq
+    * Vic11 WT Input library: fastq/Tlib190-15\_S15\_L001\_R1\_001.fastq and fastq/Tlib190-15\_S15\_L001\_R2\_001.fastq
+    * Vic11 WT Passaged library (Replicate 1): fastq/Tlib190-7\_S7\_L001\_R1\_001.fastq and fastq/Tlib190-7\_S7\_L001\_R2\_001.fastq
+    * Vic11 WT Passaged library (Replicate 2): fastq/Tlib190-8\_S8\_L001\_R1\_001.fastq and fastq/Tlib190-8\_S8\_L001\_R2\_001.fastq
+    * Vic11 WT Passaged library (Replicate 3): fastq/Tlib190-9\_S9\_L001\_R1\_001.fastq and fastq/Tlib190-9\_S9\_L001\_R2\_001.fastq
+    * Vic11 D190E Input library: fastq/Tlib190-16\_S16\_L001\_R1\_001.fastq and fastq/Tlib190-16\_S16\_L001\_R2\_001.fastq'
+    * Vic11 D190E Passaged library (Replicate 1): fastq/Tlib190-10\_S10\_L001\_R1\_001.fastq and fastq/Tlib190-10\_S10\_L001\_R2\_001.fastq
+    * Vic11 D190E Passaged library (Replicate 2): fastq/Tlib190-11\_S11\_L001\_R1\_001.fastq and fastq/Tlib190-11\_S11\_L001\_R2\_001.fastq
+    * Vic11 D190E Passaged library (Replicate 3): fastq/Tlib190-12\_S12\_L001\_R1\_001.fastq and fastq/Tlib190-12\_S12\_L001\_R2\_001.fastq
