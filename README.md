@@ -40,14 +40,30 @@ This study aims to examine the mechanistic basis of entrenchment of E190D substi
 
 ### ANALYSIS PEPLINE
 #### For Bris07 combinatorial mutant library
-##### From sequencing data to mutant count
 1. script/Bris07\_HARBSmapper1.py
   * Input file: fastq/NW-\*.fastq
   * Output file: result/Bris07\_MultiMutLib
 2. script/Bris07\_HARBSmapper2.py
   * Input file: result/Bris07\_MultiMutLib.tsv
   * Output file: result/Bris07\_MutfitTable.tsv
-##### Plotting
+3. script/Bris07\_PlotCompareRep.R
+  * Input file: result/Bris07\_MultiMutLib.tsv
+  * Output file: graph/Bris07\_RepCompare.png
+4. script/Bris07\_PlotEnrichMut.R 
+  * Input file: result/Bris07\_MutfitTable.tsv
+  * Output file: graph/Bris07\_MutEnich\_D190E.png
 #### For Bris07-rev6 combinatorial mutant library
+1. script/Bris07r6\_HARBSmapper1.py
+  * Input file: fastq/rev6mut9-\*.fastq
+  * Output file: result/Bris07r6\_MultiMutLib.tsv
+2. script/Bris07r6\_HARBSmapper2.py  
+  * Input file: result/Bris07r6\_MultiMutLib.tsv
+  * Output file: result/Bris07r6\_MutfitTable.tsv
+3. script/Bris07r6\_PlotCompareRep.R
+  * Input file: result/Bris07r6\_MultiMutLib.tsv
+  * Output file: 
+4. script/Bris07r6\_PlotEnrichMut.R 
+  * Input file: result/Bris07\_MutfitTable.tsv
+  * Output file: 
 #### For HK68/Vic11 triple mutant library
 
