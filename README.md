@@ -1,5 +1,5 @@
 ## ANALYSIS FOR H3N2 HA RBS DEEP MUTATIONAL SCANNING EXPERIMENTS
-This study aims to examine the mechanistic basis of entrenchment of E190D substitution during human H3N2 evolution. Three sets of deep mutational scanning experiment were performed based on A/Hong Kong/1/1968 (HK68), A/Moscow/10/1999 (Mos99), A/Wyoming/3/2003 (Wy03), A/Brisbane/10/2007 (Brus07), A/Victoria/361/2011 (Vic11):
+This study aims to examine the mechanistic basis of entrenchment of E190D substitution during human H3N2 evolution. Three sets of deep mutational scanning experiment were performed based on A/Hong Kong/1/1968 (HK68), A/Moscow/10/1999 (Mos99), A/Wyoming/3/2003 (Wy03), A/Brisbane/10/2007 (Bris07), A/Victoria/361/2011 (Vic11):
   * Combinatorial mutant library of reversions from Bris07 to Wy03
   * Combinatorial mutant library of reversions from Bris07 rev6 mutant to Mos99
   * Triple mutant libraries (residues 225, 226, and 228):
