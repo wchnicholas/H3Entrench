@@ -2,7 +2,7 @@
 A Glu to Asp substitution at hemagglutinin (HA) residue 190 (E190D), which locates in the receptor-binding site (RBS) and is part of the antigenic site B, emerged during the natural evolution of human H3N2 influenza virus in early 1990s. This study discovers that reverting Asp190 to Glu190 is lethal to recent human H3N2 strains. This study aims to examine the mechanistic basis of this evolutionary entrenchment. Three sets of deep mutational scanning experiment were performed based on A/Hong Kong/1/1968 (HK68), A/Moscow/10/1999 (Mos99), A/Wyoming/3/2003 (Wy03), A/Brisbane/10/2007 (Bris07), A/Victoria/361/2011 (Vic11):
   * Combinatorial mutant library of reversions from Bris07 to Wy03
   * Combinatorial mutant library of reversions from Bris07 rev6 mutant to Mos99
-  * Triple mutant libraries (residues 225, 226, and 228):
+  * Triple mutant libraries (residues 225, 226, and 228) based on the following genetic backgrounds:
     * HK68 WT
     * HK68 E190D
     * Vic11 WT
