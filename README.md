@@ -1,4 +1,4 @@
-This README describes the scripts used for the analyses in:
+This README describes the scripts used for the analyses in:   
 [A complex epistatic network limits the mutational reversibility in the influenza hemagglutinin receptor-binding site](http://www.nature.com/articles/s41467-018-03663-5?WT.feed_name=subjects_next-generation-sequencing&utm_source=dlvr.it&utm_medium=twitter)
 
 ## ANALYSIS FOR H3N2 HA RBS DEEP MUTATIONAL SCANNING EXPERIMENTS
