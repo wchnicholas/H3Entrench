@@ -1,3 +1,6 @@
+This README describes the scripts used for the analyses in:
+[A complex epistatic network limits the mutational reversibility in the influenza hemagglutinin receptor-binding site](http://www.nature.com/articles/s41467-018-03663-5?WT.feed_name=subjects_next-generation-sequencing&utm_source=dlvr.it&utm_medium=twitter)
+
 ## ANALYSIS FOR H3N2 HA RBS DEEP MUTATIONAL SCANNING EXPERIMENTS
 A Glu to Asp substitution at hemagglutinin (HA) residue 190 (E190D), which locates in the receptor-binding site (RBS) and is part of the antigenic site B, emerged during the natural evolution of human H3N2 influenza virus in early 1990s. This study discovers that reverting Asp190 to Glu190 is lethal to recent human H3N2 strains. This study aims to examine the mechanistic basis of this evolutionary entrenchment. Three sets of deep mutational scanning experiment were performed based on A/Hong Kong/1/1968 (HK68), A/Moscow/10/1999 (Mos99), A/Wyoming/3/2003 (Wy03), A/Brisbane/10/2007 (Bris07), A/Victoria/361/2011 (Vic11):
   * Combinatorial mutant library of reversions from Bris07 to Wy03
