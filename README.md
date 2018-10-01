@@ -41,7 +41,7 @@ A Glu to Asp substitution at hemagglutinin (HA) residue 190 (E190D), which locat
     * Vic11 D190E Passaged library (Replicate 2): fastq/Tlib190-11\_S11\_L001\_R1\_001.fastq and fastq/Tlib190-11\_S11\_L001\_R2\_001.fastq
     * Vic11 D190E Passaged library (Replicate 3): fastq/Tlib190-12\_S12\_L001\_R1\_001.fastq and fastq/Tlib190-12\_S12\_L001\_R2\_001.fastq
 
-### ANALYSIS PEPLINE
+### ANALYSIS PIPELINE
 #### For Bris07 combinatorial mutant library
 1. script/Bris07\_HARBSmapper1.py
   * Input file: fastq/NW-\*.fastq
